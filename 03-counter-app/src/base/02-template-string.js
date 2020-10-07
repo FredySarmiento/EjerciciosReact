@@ -11,7 +11,7 @@ const nombreCompleto = `${ nombre } ${ apellido }`;
 //console.log( nombreCompleto );
 
 
-export function getSaludo(nombre='juan') {
+export function getSaludo(nombre='Carlos') {
     return 'Hola ' + nombre;
 }
 
